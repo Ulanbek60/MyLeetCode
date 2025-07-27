@@ -1,0 +1,1 @@
+print(input('write the text: ')[::-1])
