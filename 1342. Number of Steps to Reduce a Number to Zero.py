@@ -5,8 +5,8 @@ def numberOfSteps(num):
             num //= 2
             count +=1
         else:
-            num -=1
-            count += 1
+            num -=1 
+            count += 1 
     return count
 
 print(numberOfSteps(14))
