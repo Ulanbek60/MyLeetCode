@@ -12,7 +12,7 @@ def generate(numRows):
         new_row.append(1)        # заканчиваем новую строку единицей
         result.append(new_row)   # добавляем в результат
 
-    return result # ответ
+    return result # ответ 
 
 print(generate(5))
 
