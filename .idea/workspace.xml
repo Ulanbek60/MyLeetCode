@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ac176e-ecb3-4f5e-ba4d-80147d392cf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1342. Number of Steps to Reduce a Number to Zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/118. Pascal's Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reaction/mysite/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reaction/mysite/react_app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reaction/mysite/react_app/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ShopMLdjango/my_site/.env" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ShopMLdjango/my_site/boost_model.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ShopMLdjango/my_site/model_columns.pkl" afterDir="false" />
@@ -19,9 +23,8 @@
       <change beforePath="$PROJECT_DIR$/../Courses" beforeDir="false" afterPath="$PROJECT_DIR$/../Courses" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Online-Store-Lime-" beforeDir="false" afterPath="$PROJECT_DIR$/../Online-Store-Lime-" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PricePhoneML" beforeDir="false" afterPath="$PROJECT_DIR$/../PricePhoneML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/242. Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/242. Valid Anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/461. Hamming Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/461. Hamming Distance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TodoMongoDB" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoMongoDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../finalpythonshop" beforeDir="false" afterPath="$PROJECT_DIR$/../finalpythonshop" afterDir="false" />
     </list>
@@ -38,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -51,10 +54,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.118. Pascal's Triangle.executor": "Run",
     "Python.1342. Number of Steps to Reduce a Number to Zero.executor": "Run",
     "Python.136. Single Number.executor": "Run",
     "Python.206. Reverse Linked List.executor": "Run",
     "Python.242. Valid Anagram.executor": "Run",
+    "Python.26. Remove Duplicates from Sorted Array.executor": "Run",
     "Python.2806. Account Balance After Rounded Purchase.executor": "Run",
     "Python.3467. Transform Array by Parity .executor": "Run",
     "Python.387. First Unique Character in a String.executor": "Run",
