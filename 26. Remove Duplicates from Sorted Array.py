@@ -7,4 +7,3 @@ def removeDuplicates(nums):
     return k + 1
 print(removeDuplicates([1,1,2])) 
 
-
