@@ -1,5 +1,5 @@
 def generate(numRows):
-    result = [[1]]
+    result = [[1]] # результат
 
     for _ in range(1, numRows):  # для каждой новой строки
         prev = result[-1]        # берем последнюю строку
